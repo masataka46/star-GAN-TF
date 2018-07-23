@@ -10,3 +10,6 @@ I am now modifying the Wasserstein Loss to Least square Loss.
 ```
 
 ## Result image  
+after 200 epochs, the result image is below.  
+![resultimage_180722_1070_cat_04_210](https://user-images.githubusercontent.com/15444879/43061919-0cdc8702-8e92-11e8-9729-b9232f778924.png)  
+The task is converting siamese cat, tiger cat, sbyssinian cat to another cat.  
